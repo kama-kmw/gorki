@@ -1,0 +1,70 @@
+.toggle {
+  display: block;
+  position: relative;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  /* margin-left: 15px; */
+  /* margin-top: 6px; */
+  z-index: 1001;
+}
+
+.toggle:before {
+  content: '';
+  position: absolute;
+  top: 3px;
+  width: 100%;
+  height: 2px;
+  background: rgb(235, 184, 71);
+  background: #fff;
+
+  z-index: 1;
+  box-shadow: 0 10px 0 rgb(235, 184, 71);
+  box-shadow: 0 10px 0 #fff;
+
+  transition: 0.5s;
+}
+
+.toggle:after {
+  content: '';
+  position: absolute;
+  bottom: 1px;
+  width: 100%;
+  height: 2px;
+  background: rgb(235, 184, 71);
+  background: #fff;
+
+  z-index: 1;
+  transition: 0.5s;
+}
+
+.active .toggle:before {
+  top: 11px;
+  transform: rotate(45deg);
+  box-shadow: 0 0 0 rgb(235, 184, 71);
+  box-shadow: 0 0 0 #fff;
+
+  background: rgb(235, 184, 71);
+  background: #fff;
+
+}
+
+.active .toggle:after {
+  bottom: 12px;
+  transform: rotate(-45deg);
+  box-shadow: 0 0 0 rgb(235, 184, 71);
+  box-shadow: 0 0 0 #fff;
+  background: rgb(235, 184, 71);
+  background: #fff;
+
+}
+
+.toggle-box {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .toggle-box {
+    display: block;
+  }
+}
