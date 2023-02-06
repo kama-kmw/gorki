@@ -85,3 +85,46 @@
   background-color: red;
   color: orange;
 }
+
+@media screen and (max-width: 1024px) {
+  .work__container {
+    grid-template-columns: 250px 250px 250px;
+  }
+
+  .work__img {
+    width:250px;
+    height: 220px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .work__container {
+    grid-template-columns: 250px 250px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .work__container {
+    grid-template-columns: 190px 190px;
+    gap: 0.55rem;
+
+  }
+
+  .work__img {
+    width:190px;
+    height: 190px;
+  }
+}
+
+@media screen and (max-width: 413px) {
+  .work__container {
+    grid-template-columns: 250px;
+    gap: 0.55rem;
+
+  }
+
+  .work__img {
+    width:250px;
+    height: 220px;
+  }
+}
