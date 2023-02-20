@@ -1,0 +1,136 @@
+.excursion {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+.excursion-item {
+  border-radius: 4px 4px 0 0;
+  overflow: hidden;
+}
+
+.excursion-item:hover .excursion__title {
+  background: #b4211c;
+}
+
+.excursion__image img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  transition: all ease-in-out 0.4s;
+}
+
+.excursion__image img:hover {
+  transform: scale(1.05);
+}
+
+.excursion__title {
+  background: #1a1a1a;
+  padding-top: 7px;
+  padding-bottom: 10px;
+}
+
+.excursion__title:hover {
+  background: #b4211c;
+}
+
+.excursion__title h4 {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 1300px) {
+  .excursion {
+    grid-template-columns: 270px 270px 270px 270px;
+  }
+
+  .excursion__image img {
+    height: 180px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .excursion {
+    grid-template-columns: 230px 230px 230px 230px;
+  }
+
+  .excursion__image img {
+    height: 170px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion {
+    grid-template-columns: 250px 250px 250px;
+  }
+
+  .excursion__image img {
+    height: 170px;
+  }
+}
+
+@media screen and (max-width: 835px) {
+  .excursion {
+    grid-template-columns: 200px 200px 200px;
+  }
+
+  .excursion__image img {
+    height: 150px;
+  }
+}
+
+
+@media screen and (max-width: 680px) {
+  .excursion {
+    grid-template-columns: 250px 250px;
+  }
+
+  .excursion__image img {
+    height: 150px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .excursion {
+    grid-template-columns: 200px 200px;
+  }
+
+  .excursion__image img {
+    height: 130px;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .excursion {
+    grid-template-columns: 180px 180px;
+  }
+
+  .excursion__image img {
+    height: 120px;
+  }
+}
+
+@media screen and (max-width: 413px) {
+  .excursion {
+    grid-template-columns: 300px;
+  }
+
+  .excursion__image img {
+    height: 170px;
+  }
+}
+
+@media screen and (max-width: 345px) {
+  .excursion {
+    grid-template-columns: 280px;
+  }
+
+  .excursion__image img {
+    height: 170px;
+  }
+}

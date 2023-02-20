@@ -4,7 +4,7 @@
 
         <div class="section-title">
           <h2>Вопросы и ответы</h2>
-          <p>Frequently Asked Questions</p>
+          <!-- <p>на самые интересующие в</p> -->
         </div> 
 
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">

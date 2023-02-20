@@ -1,4 +1,5 @@
 const slyderSwiper = () => {
+ 
   new Swiper('.slider', {
     // direction: 'vertical',
     // freeMode: true,
@@ -15,6 +16,12 @@ const slyderSwiper = () => {
       enabled: true,
       sensitivity: 2.4,
     },
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true,
+    },
+
     breakpoints: {
       320: {
         slidesPerView: 1,
@@ -22,7 +29,7 @@ const slyderSwiper = () => {
       },
 
       1200: {
-        slidesPerView: 1.7,
+        slidesPerView: 1,
         spaceBetween: 20,
       },
     },

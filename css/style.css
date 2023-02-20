@@ -1,13 +1,14 @@
 @import 'standart.css';
 @import 'header.css';
-@import 'mob-menu.css';
 @import 'toggle.css';
 @import 'slyder.css';
 @import 'about.css';
-@import 'category.css';
+@import 'excursion.css';
 @import 'portfolio.css';
 @import 'team.css';
 @import 'gallery.css';
 @import 'fao.css';
 @import 'cta.css';
+@import 'navigation.css';
+@import 'modal-contact.css';
 @import 'footer.css';

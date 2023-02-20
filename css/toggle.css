@@ -59,9 +59,9 @@
 
 }
 
-.toggle-box {
+/* .toggle-box {
   display: none;
-}
+} */
 
 @media (max-width: 1024px) {
   .toggle-box {

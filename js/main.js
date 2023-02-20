@@ -3,6 +3,7 @@ import portfolio from './modules/portfolio.js';
 import cta from './modules/cta.js';
 import gallery from './modules/gallery.js';
 import toggle from './modules/toggle.js';
+import modalsContact from './modules/modal-contact.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   slyderSwiper();
@@ -10,4 +11,5 @@ window.addEventListener('DOMContentLoaded', () => {
   gallery();
   cta();
   toggle();
+  modalsContact();
 });

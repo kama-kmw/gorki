@@ -1,6 +1,9 @@
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.team .section-title-team {
+  padding-bottom: 2rem;
+}
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;

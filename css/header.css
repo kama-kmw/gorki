@@ -43,8 +43,13 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .nav-menu {
+  .nav-list__item {
     display: none;
+  }
+
+  .nav-list__item-excurs {
+    margin-left: 0px;
+    display: block;
   }
 }
 

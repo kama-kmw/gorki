@@ -7,11 +7,13 @@
     <?php include 'includes/slyder.php'; ?>
     <?php include 'includes/portfolio.php'; ?>
     <?php include 'includes/about.php'; ?>
-    <?php include 'includes/category.php'; ?>
+    <?php include 'includes/excursion.php'; ?>
     <?php include 'includes/cta.php'; ?>
     <?php include 'includes/gallery.php'; ?>
     <?php include 'includes/team.php'; ?>
     <?php include 'includes/fao.php'; ?>
+    <?php include 'includes/navigation-sub.php'; ?>
+    <?php include 'includes/popup-contact.php'; ?>
 
     <!--=============== FOOTER ===============-->
     <?php include 'includes/footer.php'; ?>

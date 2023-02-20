@@ -1,5 +1,8 @@
 /*=============== WORK ===============*/
-
+.work {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 .work__container {
   padding-top: 1rem;
   display: grid;
@@ -7,7 +10,6 @@
   justify-content: center;
   gap: 1.25rem;
 }
-
 
 .section__title,
 .section__subtitle {
@@ -92,7 +94,7 @@
   }
 
   .work__img {
-    width:250px;
+    width: 250px;
     height: 220px;
   }
 }
@@ -107,11 +109,10 @@
   .work__container {
     grid-template-columns: 190px 190px;
     gap: 0.55rem;
-
   }
 
   .work__img {
-    width:190px;
+    width: 190px;
     height: 190px;
   }
 }
@@ -120,11 +121,10 @@
   .work__container {
     grid-template-columns: 250px;
     gap: 0.55rem;
-
   }
 
   .work__img {
-    width:250px;
+    width: 250px;
     height: 220px;
   }
 }

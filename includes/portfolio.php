@@ -1,8 +1,9 @@
   <!--=============== WORK ===============-->
   <section class="work section" id="work">
-        <span class="section__subtitle">Популярные направления</span>
-        <h2 class="section__title"></h2>
-
+    <div class="container">
+        <div class="section-title">
+          <h2>Популярное</h2>
+        </div>
         <div class="work__filters">
           <span class="work__item active-work" data-filter="all">Все</span>
           <span class="work__item" data-filter=".web">Эльбрус</span>
@@ -61,4 +62,5 @@
             </a>
           </div>
         </div>
-      </section>
+    </div>
+  </section>

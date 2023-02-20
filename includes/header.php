@@ -5,20 +5,19 @@
           <a href="#" class="nav__logo"
             >Спутник-Кавказа
           </a>
-        <!-- <a href="#" class="nav__tell">8 (928) 335 40 00</a> -->
           <div class="nav-menu">
             <ul class="nav-list">
-              <li class="nav-list__item">
+              <li class="nav-list__item nav-list__item-excurs">
                 <a href="#" class="nav-list__link">Экскурсии</a>
               </li>
-
+<!-- 
               <li class="nav-list__item">
                 <a href="#" class="nav-list__link">+7 (928) 000 00 00</a>
-              </li>
+              </li> -->
 
               <li class="nav-list__item">
                 <a href="#" class="nav-list__link">
-                  <i class='bx bx-home'></i>
+                  <i class='bx bx-phone'></i>
                 </a>
               </li>
            
@@ -41,7 +40,8 @@
               </li>
             </ul>
           </div>
-          <div class="toggle-box">
+          
+          <!-- <div class="toggle-box">
             <div class="toggle"></div>
             <div class="mob-container">
               <ul class="mob-menu">
@@ -74,7 +74,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> -->
         </nav>
       </div>
     </header>

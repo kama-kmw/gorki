@@ -88,7 +88,7 @@
       </div>
       <div class="container">
         <div class="copyright">
-          &copy Copyright <strong><span>2022</span></strong>
+          &copy Copyright <strong><span>2023</span></strong>
         </div>
         <div class="copyright-links">
           <a href="https://art-cod.ru">Art-Cod.ru</a>
