@@ -1,6 +1,6 @@
 <!-- ======= About Section ======= -->
-<section id="about" class="about">
-      <div class="container">
+<section id="about" class="about" >
+      <div class="container" data-aos="zoom-in">
 
         <div class="row">
           <div class="col-xl-5 col-lg-6 d-flex justify-content-center video-box align-items-stretch position-relative">

@@ -10,10 +10,10 @@ const modalsContact = () => {
       e.preventDefault();
       if (modal.style.display == 'block') {
         modal.style.display = 'none';
-        // document.body.style.overflow = '';
+        document.body.style.overflow = '';
       } else {
         modal.style.display = 'block';
-        // document.body.style.overflow = 'hidden';
+        document.body.style.overflow = 'hidden';
       }
     });
 

@@ -1,15 +1,23 @@
 import slyderSwiper from './slyder.js';
 import portfolio from './modules/portfolio.js';
+import about from './modules/about.js';
+import excursion from './modules/excursion.js';
 import cta from './modules/cta.js';
 import gallery from './modules/gallery.js';
+import team from './modules/team.js';
+import faq from './modules/faq.js';
 import toggle from './modules/toggle.js';
 import modalsContact from './modules/modal-contact.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   slyderSwiper();
   portfolio();
-  gallery();
+  about();
+  excursion();
   cta();
+  gallery();
+  team();
+  faq();
   toggle();
   modalsContact();
 });

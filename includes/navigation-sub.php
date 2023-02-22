@@ -2,11 +2,11 @@
  <section class="navigation-sub">
       <div class="sub-menu container">
         <ul class="sub-menu__list">
-          <li class="sub-menu__item">
+          <!-- <li class="sub-menu__item">
             <a href="index.php" class="sub-menu__link sub-active__link">
               <i class="bx bx-home-alt"></i>
             </a>
-          </li>
+          </li> -->
           <li class="sub-menu__item">
             <!-- <a href="basket.php" class="sub-menu__link big-link">
               <i class="bx bx-cart"></i>
@@ -60,11 +60,11 @@
               <i class="bx bx-search-alt-2"></i>
             </a>
           </li> -->
-          <li class="sub-menu__item">
+          <!-- <li class="sub-menu__item">
             <a href="#" class="sub-menu__link" id="sub-menu__call">
               <i class="bx bx-phone"></i>
             </a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </section>

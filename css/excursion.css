@@ -1,6 +1,6 @@
 .excursion {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   display: grid;
   grid-template-columns: 300px 300px 300px 300px;
   justify-content: center;
@@ -14,6 +14,7 @@
 
 .excursion-item:hover .excursion__title {
   background: #b4211c;
+  background: #49b5e7;
 }
 
 .excursion__image img {
@@ -31,6 +32,7 @@
   background: #1a1a1a;
   padding-top: 7px;
   padding-bottom: 10px;
+  transition: 0.5s;
 }
 
 .excursion__title:hover {
@@ -83,7 +85,6 @@
     height: 150px;
   }
 }
-
 
 @media screen and (max-width: 680px) {
   .excursion {

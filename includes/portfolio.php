@@ -2,7 +2,7 @@
   <section class="work section" id="work">
     <div class="container">
         <div class="section-title">
-          <h2>Популярное</h2>
+          <h2 class="work__h2">Популярное</h2>
         </div>
         <div class="work__filters">
           <span class="work__item active-work" data-filter="all">Все</span>

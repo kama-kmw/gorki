@@ -1,6 +1,6 @@
 .cta {
   padding: 80px 0;
-  background: #0b2341;
+  background: #0b2341; 
 }
 
 .cta h3 {
@@ -24,10 +24,13 @@
   transition: 0.5s;
   margin-top: 10px;
   border: 2px solid #ed502e;
+  border: 2px solid #49b5e7;
   color: #fff;
 }
 
 .cta .cta-btn:hover {
   background: #ed502e;
+  background: #49b5e7;
   border: 2px solid #ed502e;
+  border: 2px solid #49b5e7;
 }

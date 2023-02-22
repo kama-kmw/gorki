@@ -1,5 +1,5 @@
    <!-- ======= Team Section ======= -->
-   <section id="team" class="team section-bg">
+   <section id="team" class="team section-bg" data-aos="zoom-in">
       <div class="container">
 
         <div class="section-title section-title-team">

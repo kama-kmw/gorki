@@ -1,11 +1,11 @@
  <!-- ======= Gallery Section ======= -->
- <section id="category" class="category">
+ <section id="category" class="category" data-aos="zoom-in">
       <div class="container">
       <div class="section-title">
           <h2>Экскурсии</h2>
       </div>
 
-      <div class="excursion">
+      <div class="excursion" >
 
         <div class="excursion-item">
           <a href="#" class="excursion__link">

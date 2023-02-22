@@ -1,5 +1,5 @@
  <!-- ======= Gallery Section ======= -->
- <section id="gallery" class="gallery">
+ <section id="gallery" class="gallery" data-aos="zoom-in">
       <div class="container">
 
         <div class="section-title section-title-galerey">
