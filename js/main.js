@@ -8,6 +8,7 @@ import team from './modules/team.js';
 import faq from './modules/faq.js';
 import toggle from './modules/toggle.js';
 import modalsContact from './modules/modal-contact.js';
+import aosFile from './modules/aos-file.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   slyderSwiper();
@@ -20,4 +21,5 @@ window.addEventListener('DOMContentLoaded', () => {
   faq();
   toggle();
   modalsContact();
+  aosFile();
 });

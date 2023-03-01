@@ -18,7 +18,7 @@
             </li>
 
             <li class='popup-list__item'>
-              <a href="" class='popup-list__link'>Экскурсии</a>
+              <a href="#excursion" class='popup-list__link'>Экскурсии</a>
             </li>
 
             <li class='popup-list__item'>

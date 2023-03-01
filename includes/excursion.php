@@ -5,7 +5,7 @@
           <h2>Экскурсии</h2>
       </div>
 
-      <div class="excursion" >
+      <div class="excursion" id="excursion" >
 
         <div class="excursion-item">
           <a href="#" class="excursion__link">

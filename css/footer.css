@@ -30,7 +30,7 @@
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 300;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #fff;
 
 }

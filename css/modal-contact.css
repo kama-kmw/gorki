@@ -6,7 +6,7 @@
   width: 100%;
   height: 100%;
   z-index: 12;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .popup-contact__content {
@@ -32,8 +32,9 @@
 
 .popup-contact__title {
   font-size: 30px;
-  font-family: 'Lemon', cursive;
-  margin-bottom: 24px;
+  /* font-family: 'Lemon', cursive; */
+  margin-top: 30px;
+  margin-bottom: 40px;
 }
 
 /* .active {
@@ -62,6 +63,7 @@
   justify-items: center;
   align-items: center;
   padding-left: 0;
+  margin-bottom: 50px;
 }
 .popup-list__item {
   padding-bottom: 20px;
@@ -74,7 +76,7 @@
   margin-bottom: 0;
   font-family: 'Playfair Display', serif;
   color: #fff;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .popup-list__link {
@@ -93,7 +95,7 @@
 .popup-info .social-links {
   display: flex;
   gap: 20px;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
   font-size: 25px;
 }
 

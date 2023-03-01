@@ -2,13 +2,13 @@
     <header class="header" id="header" > 
       <div class="container">
         <nav class="nav">
-          <a href="#" class="nav__logo"
+          <a href="index.php" class="nav__logo"
             >Спутник-Кавказа
           </a>
           <div class="nav-menu">
             <ul class="nav-list">
               <li class="nav-list__item nav-list__item-excurs">
-                <a href="#" class="nav-list__link">Экскурсии</a>
+                <a href="category.php" class="nav-list__link">Экскурсии</a>
               </li>
 <!-- 
               <li class="nav-list__item">
