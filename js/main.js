@@ -9,6 +9,8 @@ import faq from './modules/faq.js';
 import toggle from './modules/toggle.js';
 import modalsContact from './modules/modal-contact.js';
 import aosFile from './modules/aos-file.js';
+import sendBdFromExcursion from './modules/send-bd-from-excursion.js';
+// import sendBd from './modules/send_data_on_bd.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   slyderSwiper();
@@ -22,4 +24,6 @@ window.addEventListener('DOMContentLoaded', () => {
   toggle();
   modalsContact();
   aosFile();
+  sendBdFromExcursion();
+  // sendBd();
 });

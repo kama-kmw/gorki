@@ -3,11 +3,15 @@
   background: #fff;
 }
 
-.desc__text {
+.category__desc {
   color: #111;
 }
 
-.desc__sub-title {
+.category__text {
+  color: #111;
+}
+
+.category__sub-title {
   font-weight: bold;
   color: #111;
 }

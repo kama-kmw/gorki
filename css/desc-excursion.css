@@ -1,0 +1,13 @@
+.desc-excursion {
+  position: relative;
+  margin-top: 7rem;
+}
+
+.desc-excursion__title {
+  text-align: left;
+  color: #111;
+}
+
+.desc-excursion .gallery {
+  margin-top: 2rem;
+}

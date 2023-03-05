@@ -10,6 +10,8 @@
 @import 'fao.css';
 @import 'cta.css';
 @import 'navigation.css';
-@import 'description.css';
+@import 'category.css';
+@import 'gallery-excursion.css';
+@import 'desc-excursion.css';
 @import 'modal-contact.css';
 @import 'footer.css';
