@@ -19,7 +19,7 @@
 
         <div class="row align-items-center speaker" >
           <div class="col-lg-6 mb-5 mb-lg-0 category-scale" data-aos="fade" data-aos-delay="100">
-            <img src="img/category/bermamit.JPG" alt="Image" class="img-fluid">
+            <img src="img/category/karmadon2.JPG" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-6 ml-auto category-bottom">
             <h2 class="mb-4 name category__sub-title" data-aos="fade-right" data-aos-delay="200">Джилы су</h2>
