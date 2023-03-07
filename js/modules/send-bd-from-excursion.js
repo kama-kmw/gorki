@@ -3,7 +3,7 @@ const sendBdFromExcursion = () => {
 
   async function loadProductinBd() {
     try {
-      const url = '/php/load-data-bd-excursion.php';
+      const url = '/php/load-data-bd-excursion.php'; 
       const formData = new FormData();
       const response = await fetch(url, {
         method: 'POST',

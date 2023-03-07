@@ -80,6 +80,11 @@
 .speaker {
   margin-bottom: 20px;
 }
+
+.speaker:nth-child(2n+1) {
+  flex-direction: row-reverse;
+
+}
 .speaker .name {
   /* left: -80px; */
   position: relative;

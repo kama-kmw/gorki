@@ -1,7 +1,7 @@
 <?php
 require_once 'config/connect.php';
 
-$sql = mysqli_query($connect, "SELECT * FROM `Эльбрус` ");
+$sql = mysqli_query($connect, "SELECT * FROM `Категории` ");
 $result = mysqli_fetch_all($sql, MYSQLI_ASSOC);
 
 // $del_id = $_POST['id_word'];

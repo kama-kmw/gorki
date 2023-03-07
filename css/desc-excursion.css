@@ -11,3 +11,135 @@
 .desc-excursion .gallery {
   margin-top: 2rem;
 }
+
+.deck-excursion__desc {
+  
+}
+
+.desc-bottom-container {
+  margin-bottom: 2rem;
+}
+
+.desc-content {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  justify-content: space-between;
+  gap: 30px;
+  padding-top: 30px;
+}
+
+.desc-content-container-right {
+  margin-top: 25px;
+  background: #fff;
+  background: rgb(46, 46, 57);
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  height: 400px;
+  position: sticky;
+  top: 90px;
+  left: 70%;
+  border-radius: 16px;
+}
+
+.desc-content-order {
+  width: 320px;
+  padding: 20px 30px 30px 30px;
+  /* box-shadow: 0 16px 40px rgba(53, 54, 53, 0.3); */
+}
+
+.desc-content__title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333333;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.desc-content-list {
+  padding-left: 0;
+}
+
+.desc-content__item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  align-items: center;
+  padding-top: 0;
+}
+
+.desc-content__name {
+  font-size: 16px;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.desc-content__item-desk {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.desc-content-btn {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #c5c0b7;
+  border: 1px solid #c5c0b7;
+  text-align: center;
+  background: #fff;
+  background: rgb(46, 46, 57);
+  font-size: 18px;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.desc-content-btn:hover {
+  background: #fff;
+  transition: 0.7s;
+  border: none;
+  color: rgb(46, 46, 57);
+}
+
+@media (max-width: 1250px) {
+  .desc-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+@media (max-width: 990px) {
+  /* ----- BASKET -----  */
+  .desc-content {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .desc-content-order {
+    width: 100%;
+    padding: 30px;
+    box-shadow: 0 16px 40px rgba(53, 54, 53, 0.3);
+    border-radius: 16px;
+  }
+}
+
+@media (max-width: 414px) {
+  .desc-content__title {
+    font-size: 25px;
+  }
+
+  .desc-content__name {
+    font-size: 14px;
+  }
+
+  .desc-content__item-desk {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .desc-content-btn {
+    font-size: 14px;
+  }
+
+  .desc-content__sub-text {
+    font-size: 13px;
+  }
+}
