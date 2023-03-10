@@ -14,7 +14,7 @@ import sendBdFromExcursion from './modules/send-bd-from-excursion.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   slyderSwiper();
-  portfolio();
+  // portfolio();
   about();
   excursion();
   cta();

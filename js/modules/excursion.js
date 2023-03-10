@@ -11,6 +11,6 @@ const excursion = () => {
 
   sr.reveal('.category', { delay: 200, origin: 'bottom' });
   // sr.reveal('.about', { scale: 0.35 });
-};
+}; 
 
 export default excursion;

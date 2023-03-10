@@ -18,7 +18,7 @@
               <li class="nav-list__item">
                 <a href="#" class="nav-list__link">
                   <i class='bx bx-phone'></i>
-                </a>
+                </a> 
               </li>
            
               <li class="nav-list__item">

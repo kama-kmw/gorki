@@ -20,8 +20,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Михаил</h4>
+                <!-- <span>Chief Executive Officer</span> -->
               </div>
             </div>
           </div>
@@ -38,8 +38,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Александр</h4>
+                <!-- <span>Product Manager</span> -->
               </div>
             </div>
           </div>
@@ -56,8 +56,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Иван</h4>
+                <!-- <span>CTO</span> -->
               </div>
             </div>
           </div>
@@ -74,8 +74,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Евгений</h4>
+                <!-- <span>Accountant</span> -->
               </div>
             </div>
           </div>

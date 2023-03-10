@@ -1,6 +1,10 @@
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.team {
+  padding-bottom: 60px;
+
+}
 .team .section-title-team {
   padding-bottom: 2rem;
 }
@@ -76,7 +80,7 @@
   color: #777777;
 }
 
-.team .member:hover .social {
+/* .team .member:hover .social {
   opacity: 1;
   bottom: 15px;
-}
+} */

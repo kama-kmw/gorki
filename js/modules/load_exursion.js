@@ -180,7 +180,7 @@ const loadExcursion = () => {
                   </div>
     
                   <div class="row align-items-stretch program">
-                    <div class="col-12 border-top border-bottom py-5 program-item category-bottom-x4"   
+                    <div class="col-12 border-top border-bottom py-3 program-item category-bottom-x4"   
                       data-aos="fade" 
                       data-aos-delay="200">
                       <div class="row align-items-stretch">
@@ -192,7 +192,7 @@ const loadExcursion = () => {
                       </div>
                     </div>
     
-                    <div class="col-12 border-bottom py-5 category-bottom-x4" data-aos="fade" data-aos-delay="300">
+                    <div class="col-12 border-bottom py-3 category-bottom-x4" data-aos="fade" data-aos-delay="300">
                       <div class="row align-items-stretch">
                         <div class="col-md-3 text-black mb-3 mb-md-0"><span class="h4 text-black">9:30</span> <span class='text-black'>AM</span></div>
                         <div class="col-md-9">
@@ -202,7 +202,7 @@ const loadExcursion = () => {
                       </div>
                     </div>
     
-                    <div class="col-12 border-bottom py-5 category-bottom-x4" data-aos="fade" data-aos-delay="400">
+                    <div class="col-12 border-bottom py-3 category-bottom-x4" data-aos="fade" data-aos-delay="400">
                       <div class="row align-items-stretch">
                         <div class="col-md-3 text-black mb-3 mb-md-0"><span class="h4 text-black">10:30</span> <span class='text-black'>AM</span></div>
                         <div class="col-md-9">
@@ -212,7 +212,7 @@ const loadExcursion = () => {
                       </div>
                     </div>
     
-                    <div class="col-12 border-bottom py-5 category-bottom-x4" data-aos="fade" data-aos-delay="500">
+                    <div class="col-12 border-bottom py-3 category-bottom-x4" data-aos="fade" data-aos-delay="500">
                       <div class="row align-items-stretch">
                         <div class="col-md-3 text-black mb-3 mb-md-0"><span class="h4 text-black">10:45</span> <span class='text-black'>NOON</span></div>
                         <div class="col-md-9">
@@ -222,7 +222,7 @@ const loadExcursion = () => {
                       </div>
                     </div>
     
-                    <div class="col-12 border-bottom py-5 category-bottom-x4" data-aos="fade" data-aos-delay="600">
+                    <div class="col-12 border-bottom py-3 category-bottom-x4" data-aos="fade" data-aos-delay="600">
                       <div class="row align-items-stretch">
                         <div class="col-md-3 text-black mb-3 mb-md-0"><span class="h4 text-black">11:30</span> <span class='text-black'>AM</span></div>
                         <div class="col-md-9">
@@ -232,7 +232,7 @@ const loadExcursion = () => {
                       </div>
                     </div>
     
-                    <div class="col-12 border-bottom py-5 category-bottom-x4" data-aos="fade" data-aos-delay="700">
+                    <div class="col-12 border-bottom py-3 category-bottom-x4" data-aos="fade" data-aos-delay="700">
                       <div class="row align-items-stretch">
                         <div class="col-md-3 text-black mb-3 mb-md-0"><span class="h4 text-black">12:00</span> <span class='text-black'>NOON</span></div>
                         <div class="col-md-9">

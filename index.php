@@ -5,7 +5,6 @@
     <!--=============== HEADER ===============-->
     <?php include 'includes/header.php'; ?>
     <?php include 'includes/slyder.php'; ?>
-    <?php include 'includes/portfolio.php'; ?>
     <?php include 'includes/about.php'; ?>
     <?php include 'includes/excursion.php'; ?>
     <?php include 'includes/cta.php'; ?>
