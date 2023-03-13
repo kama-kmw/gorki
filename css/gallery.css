@@ -1,6 +1,8 @@
 .gallery {
   /* padding-top: 2rem; */
   padding-bottom: 80px;
+  margin-top: 4rem;
+
 }
 
 .section-title-galerey {
@@ -33,6 +35,14 @@
   .gallery .gallery-item img {
     width: 100%;
     height: 155px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .gallery {
+    /* padding-top: 2rem; */
+    padding-bottom: 25px;
+    margin-top: 2.2rem;
   }
 }
 

@@ -26,11 +26,16 @@
 
 .slider__item {
   overflow: hidden;
+  width: 100%;
 }
 .slider__wrapper {
   will-change: transform;
   transform-style: preserve-3d;
   /* transition: var(--transition)!important; */
+}
+
+.swiper-mob {
+  display: none;
 }
 
 .carousel-control-next-icon, .carousel-control-prev-icon {
@@ -67,6 +72,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.slider__layer-mini {
+  background-position: 25% 75%;
 }
 
 @media screen and (max-width: 550px) {

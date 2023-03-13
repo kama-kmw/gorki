@@ -2,7 +2,7 @@
 <section id="category" class="category" data-aos="zoom-in">
       <div class="container">
       <div class="section-title">
-          <h2>Экскурсии</h2>
+          <h2>Экскурсии</h2> 
       </div>
       <div class="excursion" id="excursion" >
         <!-- <div class="excursion-item">

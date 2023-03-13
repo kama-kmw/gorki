@@ -5,6 +5,7 @@
           <a href="index.php" class="nav__logo"
             >Спутник-Кавказа
           </a>
+          <img src="img/logo.jpeg" alt="">
           <div class="nav-menu">
             <ul class="nav-list">
               <li class="nav-list__item nav-list__item-excurs">

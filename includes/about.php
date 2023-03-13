@@ -7,7 +7,7 @@
             <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
           </div>
 
-          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center px-lg-5">
             <h3>Спланируем Вашу экскурсию вместе</h3>
             <p>Ищете поездку, которая понравится всей семье? Горы Кавказа - идеальное место, которым могут наслаждаться как взрослые, так и дети. Исследуйте наш регион чудес вместе. Мы предлагаем множество экскурсий, которые сделают Ваш отдых незабываемым.</p>
 

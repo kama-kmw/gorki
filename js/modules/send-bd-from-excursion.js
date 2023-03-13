@@ -42,7 +42,7 @@ const sendBdFromExcursion = () => {
         <div class="excursion-item" id=${id}>
           <a href="desc-excursion.php" class="excursion__link excursion__djilisu-JS">
             <div class="excursion__image">
-              <img src="/img/category/${url}" alt="">
+              <img src="/img/main-img/${url}" alt="">
             </div>
             <div class="excursion__title">
               <h4 class='excursion__title-name'>${title}</h4>
