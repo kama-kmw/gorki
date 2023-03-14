@@ -1,5 +1,6 @@
 .cta {
   padding: 80px 0;
+  margin: 30px 0;
   background: #669ee5;
   background: #0b2341;
 }
@@ -35,4 +36,11 @@
   border: 2px solid #ed502e;
   border: 2px solid #0b2341;
   color: #0b2341;
+}
+
+@media screen and (max-width: 1024px) {
+  .cta {
+    padding: 60px 0;
+    margin: 15px 0;
+  }
 }

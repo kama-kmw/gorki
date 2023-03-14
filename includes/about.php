@@ -4,8 +4,17 @@
 
         <div class="row">
           <div class="col-xl-5 col-lg-6 d-flex justify-content-center video-box align-items-stretch position-relative">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+            <a href="#" class='glightbox mb-4'>
+           
+            </a>
+            <!-- <video class="about-video order-1 order-lg-2 play-btn" controls>
+                 <source src="video/IMG_20210523_090846_388.MOV">
+
+            </video>  -->
+            
           </div>
+
+          
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center px-lg-5">
             <h3>Спланируем Вашу экскурсию вместе</h3>

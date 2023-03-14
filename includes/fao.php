@@ -7,7 +7,7 @@
           <!-- <p>на самые интересующие в</p> -->
         </div> 
 
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="row faq-item d-flex align-items-stretch faq-item-first" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
             <h4>Non consectetur a erat nam at lectus urna duis?</h4>

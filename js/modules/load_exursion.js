@@ -95,7 +95,7 @@ const loadExcursion = () => {
       text3,
       subtitle4,
       text4,
-    } = {}) {
+    } = {}) { 
       return `
         <div class="container">
         <h2 class='desc-excursion__title'>${title}</h2>

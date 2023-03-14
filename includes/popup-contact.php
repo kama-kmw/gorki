@@ -21,11 +21,11 @@
             </li>
 
             <li class='popup-list__item'>
-              <a href="#excursion" class='popup-list__link'>Главная</a>
+              <a href="index.php" class='popup-list__link'>Главная</a>
             </li>
 
             <li class='popup-list__item'>
-              <a href="" class='popup-list__link'>Экскурсии</a>
+              <a href="category.php" class='popup-list__link'>Экскурсии</a>
             </li>
 
             <li class='popup-list__item'>

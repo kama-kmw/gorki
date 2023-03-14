@@ -1,10 +1,10 @@
 <!-- ======= Gallery Section ======= -->
-<section id="category" class="category" data-aos="zoom-in">
+<section id="excursion-section" class="excursion-section" data-aos="zoom-in">
       <div class="container">
       <div class="section-title">
           <h2>Экскурсии</h2> 
       </div>
-      <div class="excursion" id="excursion" >
+      <div class="excursion" id="excursion" > 
         <!-- <div class="excursion-item">
           <a href="desc-excursion.php" class="excursion__link excursion__djilisu-JS">
             <div class="excursion__image">
