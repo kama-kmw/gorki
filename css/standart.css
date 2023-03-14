@@ -36,13 +36,13 @@ img {
 }
 
 /*=============== REUSABLE CSS CLASSES ===============*/
-/* .container {
-  max-width: 968px;
+.container {
+  /* max-width: 968px;
   max-width: 1200px;
   margin-left: 1rem;
-  margin-right: 1rem;
+  margin-right: 1rem; */
   box-sizing: border-box;
-} */
+}
 
 .d-flex {
   display: flex;

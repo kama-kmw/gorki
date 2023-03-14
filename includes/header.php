@@ -3,9 +3,10 @@
       <div class="container">
         <nav class="nav">
           <a href="index.php" class="nav__logo"
-            >Спутник-Кавказа
+            >            
+            <img src="img/3.png" alt="" >
+            <h2>Спутник-Кавказа</h2>
           </a>
-          <img src="img/logo.jpeg" alt="">
           <div class="nav-menu">
             <ul class="nav-list">
               <li class="nav-list__item nav-list__item-excurs">

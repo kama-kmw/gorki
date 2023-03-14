@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,600;1,600;1,700&display=swap');
+
 .footer {
   width: 100%;
   background: #0b2341;
@@ -22,6 +24,7 @@
   color: #fff;
   position: relative;
   padding-bottom: 12px;
+ 
 }
 
 .footer-info h2 {
@@ -32,7 +35,8 @@
   font-weight: 300;
   /* text-transform: uppercase; */
   color: #fff;
-
+  font-family: 'Lora', serif;
+  font-style: italic;
 }
 
 .footer-info p {
@@ -68,7 +72,7 @@
 
 .social-links {
   margin-top: 1rem;
-} 
+}
 
 .footer-links ul {
   list-style: none;
@@ -129,7 +133,6 @@
   background: #111;
   background: #194983;
 
-  
   color: white;
 }
 
@@ -153,7 +156,6 @@
 .footer-newsletter form input[type='submit']:hover {
   background: #d3af71;
   background: #2775d5;
-
 }
 
 .copyright {
